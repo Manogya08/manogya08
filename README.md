@@ -24,6 +24,8 @@
 
 - 📫 How to reach me **manogya08@gmail.com**
 
+- - ⚡ Fun fact: **We have power to be limitless**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manogya-rastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manogya-rastogi/" height="30" width="40" /></a>
