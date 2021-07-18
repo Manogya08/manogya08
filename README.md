@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 
-**Manogya08/manogya08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manogya08/manogya08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi 👋, I'm Manogya Rastogi</h1>
 <h3 align="center">A passionate C++ || Python developer from India</h3>
